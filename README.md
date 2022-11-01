@@ -1,6 +1,8 @@
 # MiniSampler
 Simple Tool to play several Samples with a single Click.
 
+![ScreenShot](https://github.com/101010b/MiniSampler/blob/main/screenshot.png)
+
 Features:
 * 5x5 = 25 Buttons. The buttons can be configured to play on click, to play while the button is held down, or to toggle play on/off.
 * Hotkey Support for F1..F12
